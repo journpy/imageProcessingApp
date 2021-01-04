@@ -1,0 +1,3 @@
+Image Processing App v1.0
+
+Use this software to apply various filters to your images.
